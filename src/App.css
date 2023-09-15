@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.glav{
+  background: #0A0909;
+  margin: 0 auto;
+  max-width: 1728px;
+  width: 100%;
+}

@@ -1,0 +1,105 @@
+.main__viewz{
+    max-width: 1728px;
+    width: 100%;
+  background: #0A0909;
+
+}
+
+.view{
+    display: flex;
+}
+
+.img__cardView {
+    .imgs{
+        object-fit: cover;
+        max-width: 989px;
+       width: 100%;
+       padding-top: 90px;
+       padding-left: 61px;
+       height: 550px;
+     }
+} 
+
+
+.title{
+    margin-top: 90px;
+    max-width: 474px;
+    width: 100%;
+    margin-left: 53px;
+   
+    .title_cards{
+        padding-right: 40px;
+         color: #FFF;
+         font-family: Inter;
+         font-size: 40px;
+         font-style: normal;
+         font-weight: 400;
+         line-height: 77px; /* 192.5% */ 
+    }
+    .over__cards{
+        padding-right: 40px;
+        color: #FFF;
+        font-family: Inter;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 21px; 
+
+    }
+}
+
+
+
+.reputatu__date{
+    display: flex;
+    padding-right: 40px;
+   margin-left: 40px;
+    .reputate{ 
+        margin-top: 300px;
+        margin-left: -510px;
+        display: flex;
+         .reputaes__card{
+            color: #FFF;
+            font-size: 21px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0 3px;
+         }
+      
+    }
+
+    .data{
+        display: flex;
+        justify-content: end;
+        align-items: end;
+        margin-bottom: 115px;
+        margin-left: 200px;
+        .relese_data-card{
+            color: #FFF;
+            color: #FFF;
+            font-family: Inter;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+        }
+    }
+}
+
+strong{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+     width: 100px;
+     margin-top: 460px;
+     margin-left: -480px;
+}
+
+.carusel{
+    position: relative;
+    margin-top: 200px;
+}
+
